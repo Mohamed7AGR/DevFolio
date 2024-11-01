@@ -156,12 +156,12 @@ body {
 }
 #blog .card .test{
   position: absolute;
-  top: 55%;
+  top: 60%;
   left: 50%;
   transform: translate(-50%,-55%);
 }
 @media screen and (max-width:768px) {
- 
+
   #blog .card .test{
     top:59%;
   }
